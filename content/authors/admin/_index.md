@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.Tech, 2020
+  - course: B.Tech
     institution:  National Institute of Technology, Tiruchirappalli
     year: 2020
 

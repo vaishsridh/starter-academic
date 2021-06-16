@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vaishnavi Sridhar
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Full Stack Developer at Fidelity Investments
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fidelity Investments
+- name: National Institute of Technology, Tiruchirappalli
   url: https://www.nitt.edu/
 
 # Short bio (displayed in user profile at end of posts)

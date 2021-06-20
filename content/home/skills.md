@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: Spring(Boot and MVC), Maven, JUnit, Hibernate
+  icon: java
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Java
+- description: Oracle DB, MySQL
+  icon: database
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Databases
+- description: Jenkins CI
+  icon: jenkins
+  icon_pack: fab
+  name: Continuous Integration
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

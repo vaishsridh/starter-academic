@@ -10,17 +10,17 @@ role: Full Stack Developer at Fidelity Investments
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Institute of Technology, Tiruchirappalli
+- name: 
   url: https://www.nitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include solving problems related to large-scale distributed software systems and developing front-end part of a website.
+bio: My research interests include solving problems related to large-scale distributed software systems and developing websites.
 
 # Interests to show in About widget
 interests:
 - Software Engineering 
 - Distributed Computing 
-- Information Security
+- Web Development
 
 # Education to show in About widget
 education:
@@ -61,8 +61,9 @@ email: ""
 highlight_name: false
 ---
 
-Hi!I am a Full Stack Developer at Fidelity Investments with a knack for problem solving related to large-scale Java applications. I majorly work on delivering libraries and microservices.
+Hi! I am Vaishnavi, a full stack developer at Fidelity Investments with a knack for solving problems related to large-scale Java applications. I majorly work on delivering libraries, microservices and provisioning servers.
 
 I am also an open-minded individual and focus on never-ending professional self-improvement.
-Apart from coding, I practice yoga during my free time.  
+Apart from coding, I also practice yoga and watch TV series during my free time.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

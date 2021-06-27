@@ -29,20 +29,20 @@ experience:
     date_start: '2020-08-13'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Business Unit: FFIO (Fidelity Funds and Investments Operations):
+
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Backend & Architecture: Microservices and Multitenancy
+        * Frontend: Developed and tested components in Angular 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Software Developer Intern
+    company: Agnikul Cosmos
+    #company_url: ''
+    #company_logo: org-x
+    #location: 
+    date_start: '2019-05-15'
+    date_end: '2019-06-30'
+    #description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

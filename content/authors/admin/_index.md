@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I am Vaishnavi, a full stack developer at Fidelity Investments with a knack for solving problems related to large-scale Java applications. I majorly work on delivering libraries, microservices and provisioning servers.
+Hi! I am Vaishnavi, a full stack developer at Fidelity Investments with a knack for solving problems related to large-scale Java applications. I majorly work on delivering libraries, microservices and distributed multi-tenant architecture to thousands of developers inside the company who utilize them on building various products for our customers.
 
 I am also an open-minded individual and focus on never-ending professional self-improvement.
 Apart from coding, I also practice yoga and watch TV series during my free time.
